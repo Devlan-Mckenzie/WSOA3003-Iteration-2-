@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: fc27ec81787b51b4e9ace76552707928
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 1
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 32
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Corner_Top_Left_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 32
+      height: 32
+    spriteID: fbf4491ef0f4d2a4e9cf6b235a6877ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline:
+    - outline:
+      - {x: -16, y: 3}
+      - {x: -16, y: 16}
+      - {x: 16, y: 16}
+      - {x: 16, y: 3}
+    - outline:
+      - {x: -16, y: -16}
+      - {x: -16, y: 3}
+      - {x: -4, y: 3}
+      - {x: -4, y: -16}
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Grass Shadow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 92
+      width: 3
+      height: 31
+    spriteID: 86773a36ff539904c9df5f3733c9585e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 92}
+  - name: Grass Shadow_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 23
+      height: 32
+    spriteID: 99fb12554ab040742bc6206ccf8c8da7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5, y: 4}
+  - name: Grass Highlight 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 4
+      width: 12
+      height: 30
+    spriteID: d42d333c56955ea4d9174e4f383e1950
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 3}
+  - name: Grass Highlight 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 67
+      width: 12
+      height: 32
+    spriteID: 0cbfbebf6c582544f8dd179ad288e0b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 35, y: 67}
+  - name: Grass Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 67
+      width: 12
+      height: 32
+    spriteID: 9ce5a77e07bd48245a7f5d9e72185f6a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 55, y: 67}
+  - name: Dirt Shadow Dark
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 92
+      width: 4
+      height: 19
+    spriteID: d1007c51c8a8d974e8d39fc6c6d4ad5a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 92}
+  - name: Dirt Shadow Light
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 66
+      width: 6
+      height: 18
+    spriteID: 022856766464c8f4ca67d69cbc377bf4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 64, y: 66}
+  - name: Grass Shadow_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 54
+      width: 31
+      height: 4
+    spriteID: af97470ffc427f2429695dbdc35c95e3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 26}
+  - name: Grass Shadow_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 42
+      width: 32
+      height: 4
+    spriteID: 2a321326562772242bc6084ce95e99de
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 24}
+  - name: Grass Highlight 2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 46
+      width: 30
+      height: 13
+    spriteID: 984530699f2d7554783d749ec23bd346
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 34, y: 27}
+  - name: Grass Highlight 1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 4
+      width: 32
+      height: 13
+    spriteID: bb15f40305908b548be57c9dfc3d41e0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 35, y: -15}
+  - name: Grass Base_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 25
+      width: 32
+      height: 13
+    spriteID: 00dd05b4f6e1933438c14bc771b48155
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 35, y: 6}
+  - name: Dirt Shadow Dark_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 4
+      width: 19
+      height: 6
+    spriteID: 92af16ac8f6cb86428d82d0f7c1350cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: -10}
+  - name: Dirt Shadow Light_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 104
+      width: 19
+      height: 8
+    spriteID: 14b212d4d2bd56c47be2382c08dddc54
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -9, y: 92}
+  - name: Dirt Base copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 21
+      height: 22
+    spriteID: 6ca665c43a6f4d84ead494bcef7988dd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -7, y: 44}
+  - name: Dirt Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 21
+      height: 22
+    spriteID: 7f3fefe8bd689d74b9d26e1fee1b4b78
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -7, y: 74}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 128
+  importedTextureHeight: 128
+  documentSize: {x: 32, y: 32}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 32
+  textureActualHeight: 32
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Left
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 119
+    mosaicPosition: {x: 0, y: 0}
+  - name: Grass
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 118
+    mosaicPosition: {x: 0, y: 0}
+  - name: Grass Shadow
+    spriteName: Grass Shadow
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 86773a36ff539904c9df5f3733c9585e
+    layerID: 117
+    mosaicPosition: {x: 75, y: 92}
+  - name: Grass Shadow
+    spriteName: Grass Shadow_1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 99fb12554ab040742bc6206ccf8c8da7
+    layerID: 116
+    mosaicPosition: {x: 4, y: 4}
+  - name: Grass Highlight 2
+    spriteName: Grass Highlight 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: d42d333c56955ea4d9174e4f383e1950
+    layerID: 115
+    mosaicPosition: {x: 75, y: 4}
+  - name: Grass Highlight 1
+    spriteName: Grass Highlight 1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0cbfbebf6c582544f8dd179ad288e0b4
+    layerID: 114
+    mosaicPosition: {x: 35, y: 67}
+  - name: Grass Base
+    spriteName: Grass Base
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9ce5a77e07bd48245a7f5d9e72185f6a
+    layerID: 113
+    mosaicPosition: {x: 55, y: 67}
+  - name: Dirt
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 111
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dirt Shadow Dark
+    spriteName: Dirt Shadow Dark
+    isGroup: 0
+    parentIndex: 7
+    spriteID: d1007c51c8a8d974e8d39fc6c6d4ad5a
+    layerID: 110
+    mosaicPosition: {x: 86, y: 92}
+  - name: Dirt Shadow Light
+    spriteName: Dirt Shadow Light
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 022856766464c8f4ca67d69cbc377bf4
+    layerID: 109
+    mosaicPosition: {x: 75, y: 66}
+  - name: Right
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 103
+    mosaicPosition: {x: 0, y: 0}
+  - name: Grass
+    spriteName: 
+    isGroup: 1
+    parentIndex: 10
+    spriteID: 
+    layerID: 101
+    mosaicPosition: {x: 0, y: 0}
+  - name: Grass Shadow
+    spriteName: Grass Shadow_2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: af97470ffc427f2429695dbdc35c95e3
+    layerID: 100
+    mosaicPosition: {x: 75, y: 54}
+  - name: Grass Shadow
+    spriteName: Grass Shadow_3
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 2a321326562772242bc6084ce95e99de
+    layerID: 99
+    mosaicPosition: {x: 75, y: 42}
+  - name: Grass Highlight 2
+    spriteName: Grass Highlight 2_1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 984530699f2d7554783d749ec23bd346
+    layerID: 98
+    mosaicPosition: {x: 35, y: 46}
+  - name: Grass Highlight 1
+    spriteName: Grass Highlight 1_1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: bb15f40305908b548be57c9dfc3d41e0
+    layerID: 97
+    mosaicPosition: {x: 35, y: 4}
+  - name: Grass Base
+    spriteName: Grass Base_1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 00dd05b4f6e1933438c14bc771b48155
+    layerID: 96
+    mosaicPosition: {x: 35, y: 25}
+  - name: Dirt
+    spriteName: 
+    isGroup: 1
+    parentIndex: 10
+    spriteID: 
+    layerID: 95
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dirt Shadow Dark
+    spriteName: Dirt Shadow Dark_1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 92af16ac8f6cb86428d82d0f7c1350cd
+    layerID: 94
+    mosaicPosition: {x: 95, y: 4}
+  - name: Dirt Shadow Light
+    spriteName: Dirt Shadow Light_1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 14b212d4d2bd56c47be2382c08dddc54
+    layerID: 93
+    mosaicPosition: {x: 4, y: 104}
+  - name: Dirt Base copy 2
+    spriteName: Dirt Base copy 2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 6ca665c43a6f4d84ead494bcef7988dd
+    layerID: 121
+    mosaicPosition: {x: 4, y: 44}
+  - name: Dirt Base
+    spriteName: Dirt Base
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 7f3fefe8bd689d74b9d26e1fee1b4b78
+    layerID: 91
+    mosaicPosition: {x: 4, y: 74}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Corner_Top_Left Texture
+  prefabAssetName: Corner_Top_Left Prefab
+  spriteLibAssetName: Corner_Top_Left Sprite Lib
+  secondarySpriteTextures: []
